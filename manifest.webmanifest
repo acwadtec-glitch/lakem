@@ -1,0 +1,18 @@
+{
+  "name": "نزال النيون",
+  "short_name": "نزال النيون",
+  "description": "لعبة قتال أنمي في شارع نيون مطر — ضد الكمبيوتر أو أونلاين",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#04051a",
+  "theme_color": "#04051a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
